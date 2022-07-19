@@ -22,5 +22,5 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 Aula 01 - Consumindo uma API de filmes com Java
 
-###Objetivo
+### Objetivo
 Construir uma aplicação do zero para consumir a API do IMDb e exibir os filmes mais populares, destacando seus pôsteres e visualizando sua classificação... Tudo isso sem usar nenhuma biblioteca externa.
